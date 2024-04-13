@@ -12,7 +12,9 @@ Users can follow the steps to understand how the model processes input images an
 
 Data Preparation:
 The notebook includes steps for loading and preprocessing data suitable for input into the UNet model.
+
 Model Training:
 Detailed instructions and code for configuring, training, and evaluating the UNet model.
+
 Results Visualization:
 Code for visualizing the segmentation results alongside the original images and ground truth masks.
